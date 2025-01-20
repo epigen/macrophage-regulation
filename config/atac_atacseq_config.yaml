@@ -1,0 +1,58 @@
+# This project config file describes *project-specific variables*
+project_name: BMDM-stim_ATAC
+project_uuid: BMDM-stim_ATAC_5446b6bc9fcc46eb9f940c48b5b5912a
+public_html_folder: public_html/data/bmdm-stim/ATAC/
+base_url: https://www.biomedical-sequencing.at/projects/
+sample_annotation: metadata/ATAC_sample_annotation.csv
+project_path: results/ATAC/
+project_config: configs/atac_atacseq_config.yaml
+genome: mm10
+adapter_sequence: GTCTCGTGGGCTCGG
+
+# processing and downstream analysis
+downstream_analysis: 1
+sample_metadata: metadata/ATAC_sample_metadata_withqc.csv
+plot_by:
+    - 'pass_qc'
+    - 'FRiP'
+    - 'TSS'
+    - 'Regulatory'
+    - 'M Reads Mapped'
+    - 'Peaks'
+    - 'Treatment'
+    - 'Treatment_time'
+    - 'experiment_id'
+    - 'bio-replicate'
+peak_support_threshold: 3
+proportion: 0.7
+min_group: 'Treatment'
+split_by: ''
+HVR_percentage: 10
+
+# region annotation parameters for uropa with gencode_gtf reference (pipeline config)
+tss_size: 100
+proximal_size_up: 1000
+proximal_size_dn: 500
+distal_size: 10000
+
+# MultiQC report
+title: BMDM-stim ATAC time course
+intro_text: Quality Control Metrics of the ATAC-seq pipeline
+comment: null
+report_comment: null
+report_header_info: null
+custom_logo: 'workflow/scripts/multiqc_atacseq/BSF_logo.png'
+custom_logo_url: 'https://www.biomedical-sequencing.org/'
+custom_logo_title: 'Biomedical Sequencing Facility'
+pca_color_attribute: 'flowcell'
+exploratory_columns: ['flowcell']
+
+# UCSC Genome Browser trackhubs:
+trackhub_dir: atacseq_hub
+trackhub_sort_order: sample_name
+trackhub_color_by: flowcell
+parent_track_name: ATACseq
+trackhub_visibility: full
+trackhub_name: BMDM-stim_ATAC
+trackhub_short_label_column: sample_name
+email: sreichl@cemm.at

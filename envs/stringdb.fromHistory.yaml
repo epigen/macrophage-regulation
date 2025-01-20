@@ -1,0 +1,11 @@
+name: stringdb
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - bioconductor-stringdb
+  - jupyter_client
+  - r-irkernel
+  - r-ggplot2
+  - r-ggrepel

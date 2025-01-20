@@ -1,0 +1,31 @@
+name: Seurat
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.8
+  - r-seurat=4.0.1
+  - jupyter_client
+  - r-irkernel
+  - bioconductor-deseq2
+  - bioconductor-biomart
+  - bioconductor-limma
+  - r-svglite
+  - r-upsetr
+  - r-fastdummies
+  - r-mixtools
+  - bioconductor-enhancedvolcano
+  - bioconductor-glmgampoi
+  - r-enrichr
+  - r-dbscan
+  - r-ape
+  - r-pheatmap
+  - r-directlabels
+  - r-ggplotify
+  - r-sna
+  - r-hmisc
+  - r-inspectdf
+  - r-xlsx
+  - r-openxlsx
+  - r-eulerr

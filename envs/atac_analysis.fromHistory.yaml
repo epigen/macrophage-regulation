@@ -1,0 +1,23 @@
+name: atac_analysis
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - python=3.8
+  - bedtools==2.27.1
+  - ucsc-twobittofa=377
+  - bioconductor-deseq2=1.30.0
+  - bioconductor-cqn=1.34.0
+  - ipykernel
+  - rpy2=3.3.6
+  - bioconductor-copywriter=2.22.0
+  - umap-learn=0.5.0
+  - scanpy
+  - uropa
+  - modin
+  - pandas
+  - scikit-learn==1.0.0
+  - pybedtools
+  - pygenometracks
+  - matplotlib

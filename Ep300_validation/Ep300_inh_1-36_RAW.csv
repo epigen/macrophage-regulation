@@ -1,0 +1,577 @@
+﻿Well,Fluor,Target,Content,Sample,Cq,SQ,Harvest,Replicate,Condition,Timepoint,Drug,Stimulation,Primer,Housekeeping
+A01,SYBR,,Unkn,,23.03735294,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Actb,Yes
+A02,SYBR,,Unkn,,22.95334807,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Actb,Yes
+A03,SYBR,,Unkn,,22.82553187,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Actb,Yes
+A04,SYBR,,Unkn,,22.89383711,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Actb,Yes
+A05,SYBR,,Unkn,,22.37538754,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Actb,Yes
+A06,SYBR,,Unkn,,22.26226183,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Actb,Yes
+A07,SYBR,,Unkn,,22.3261022,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Actb,Yes
+A08,SYBR,,Unkn,,22.28086594,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Actb,Yes
+A09,SYBR,,Unkn,,22.8666991,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Actb,Yes
+A10,SYBR,,Unkn,,22.66955987,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Actb,Yes
+A11,SYBR,,Unkn,,22.86490669,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Actb,Yes
+A12,SYBR,,Unkn,,22.83114655,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Actb,Yes
+B01,SYBR,,Unkn,,24.6039154,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Spp1,No
+B02,SYBR,,Unkn,,24.48283353,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Spp1,No
+B03,SYBR,,Unkn,,24.48728739,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Spp1,No
+B04,SYBR,,Unkn,,24.462573,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Spp1,No
+B05,SYBR,,Unkn,,24.47995728,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Spp1,No
+B06,SYBR,,Unkn,,24.33309566,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Spp1,No
+B07,SYBR,,Unkn,,24.55922354,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Spp1,No
+B08,SYBR,,Unkn,,24.5210778,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Spp1,No
+B09,SYBR,,Unkn,,25.74768186,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Spp1,No
+B10,SYBR,,Unkn,,25.58546456,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Spp1,No
+B11,SYBR,,Unkn,,25.57767759,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Spp1,No
+B12,SYBR,,Unkn,,25.61841043,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Spp1,No
+C01,SYBR,,Unkn,,28.69339325,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Ifit1,No
+C02,SYBR,,Unkn,,28.62007998,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Ifit1,No
+C03,SYBR,,Unkn,,28.23500824,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Ifit1,No
+C04,SYBR,,Unkn,,28.20050611,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Ifit1,No
+C05,SYBR,,Unkn,,28.04895251,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Ifit1,No
+C06,SYBR,,Unkn,,28.08148804,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Ifit1,No
+C07,SYBR,,Unkn,,28.42294051,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Ifit1,No
+C08,SYBR,,Unkn,,28.36729548,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Ifit1,No
+C09,SYBR,,Unkn,,27.83994513,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Ifit1,No
+C10,SYBR,,Unkn,,27.92765106,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Ifit1,No
+C11,SYBR,,Unkn,,25.21912287,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Ifit1,No
+C12,SYBR,,Unkn,,25.28636509,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Ifit1,No
+D01,SYBR,,Unkn,,33.37013603,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Gbp2,No
+D02,SYBR,,Unkn,,32.91676914,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Gbp2,No
+D03,SYBR,,Unkn,,33.05186437,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Gbp2,No
+D04,SYBR,,Unkn,,32.93850557,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Gbp2,No
+D05,SYBR,,Unkn,,31.85330216,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Gbp2,No
+D06,SYBR,,Unkn,,31.67089262,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Gbp2,No
+D07,SYBR,,Unkn,,32.17697486,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Gbp2,No
+D08,SYBR,,Unkn,,32.07138493,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Gbp2,No
+D09,SYBR,,Unkn,,31.48251715,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Gbp2,No
+D10,SYBR,,Unkn,,31.29437798,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Gbp2,No
+D11,SYBR,,Unkn,,28.19663793,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Gbp2,No
+D12,SYBR,,Unkn,,28.28626592,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Gbp2,No
+E01,SYBR,,Unkn,,27.1654741,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Oasl2,No
+E02,SYBR,,Unkn,,27.03293856,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Oasl2,No
+E03,SYBR,,Unkn,,26.61015948,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Oasl2,No
+E04,SYBR,,Unkn,,26.64505469,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Oasl2,No
+E05,SYBR,,Unkn,,27.19951808,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Oasl2,No
+E06,SYBR,,Unkn,,26.81826467,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Oasl2,No
+E07,SYBR,,Unkn,,27.14549842,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Oasl2,No
+E08,SYBR,,Unkn,,27.14179025,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Oasl2,No
+E09,SYBR,,Unkn,,26.88724784,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Oasl2,No
+E10,SYBR,,Unkn,,26.7078282,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Oasl2,No
+E11,SYBR,,Unkn,,24.3903361,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Oasl2,No
+E12,SYBR,,Unkn,,24.41100669,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Oasl2,No
+F01,SYBR,,Unkn,,25.20499837,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Irf7,No
+F02,SYBR,,Unkn,,24.8201031,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Irf7,No
+F03,SYBR,,Unkn,,25.01748231,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Irf7,No
+F04,SYBR,,Unkn,,25.0541375,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Irf7,No
+F05,SYBR,,Unkn,,23.15622175,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Irf7,No
+F06,SYBR,,Unkn,,23.23382275,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Irf7,No
+F07,SYBR,,Unkn,,23.16499808,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Irf7,No
+F08,SYBR,,Unkn,,23.16080338,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Irf7,No
+F09,SYBR,,Unkn,,22.76464337,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Irf7,No
+F10,SYBR,,Unkn,,22.75826121,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Irf7,No
+F11,SYBR,,Unkn,,20.84539748,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Irf7,No
+F12,SYBR,,Unkn,,21.04287836,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Irf7,No
+G01,SYBR,,Unkn,,23.70780724,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Usp18,No
+G02,SYBR,,Unkn,,23.84931308,NaN,1,1,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Usp18,No
+G03,SYBR,,Unkn,,23.71217256,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Usp18,No
+G04,SYBR,,Unkn,,23.79502791,NaN,1,1,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Usp18,No
+G05,SYBR,,Unkn,,23.52777763,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Usp18,No
+G06,SYBR,,Unkn,,23.49456874,NaN,1,1,2h A485 Unchallenged,2h,A485,Unchallenged,Usp18,No
+G07,SYBR,,Unkn,,23.36416203,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Usp18,No
+G08,SYBR,,Unkn,,23.57209792,NaN,1,1,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Usp18,No
+G09,SYBR,,Unkn,,23.38724567,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Usp18,No
+G10,SYBR,,Unkn,,23.497029,NaN,1,1,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Usp18,No
+G11,SYBR,,Unkn,,22.74329103,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Usp18,No
+G12,SYBR,,Unkn,,22.91908854,NaN,1,1,24h A485 Unchallenged,24h,A485,Unchallenged,Usp18,No
+H01,SYBR,,Unkn,,NaN,NaN,1,1,NTC,NTC,NTC,NTC,Actb,No
+H02,SYBR,,Unkn,,NaN,NaN,1,1,NTC,NTC,NTC,NTC,Spp1,No
+H03,SYBR,,Unkn,,NaN,NaN,1,1,NTC,NTC,NTC,NTC,Ifit1,No
+H04,SYBR,,Unkn,,NaN,NaN,1,1,NTC,NTC,NTC,NTC,Gbp2,No
+H05,SYBR,,Unkn,,NaN,NaN,1,1,NTC,NTC,NTC,NTC,Oasl2,No
+H06,SYBR,,Unkn,,NaN,NaN,1,1,NTC,NTC,NTC,NTC,Irf7,No
+H07,SYBR,,Unkn,,NaN,NaN,1,1,NTC,NTC,NTC,NTC,Usp18,No
+H08,SYBR,,Unkn,,NaN,NaN,1,1,Empty,Empty,Empty,Empty,Empty,Empty
+H09,SYBR,,Unkn,,NaN,NaN,1,1,Empty,Empty,Empty,Empty,Empty,Empty
+H10,SYBR,,Unkn,,NaN,NaN,1,1,Empty,Empty,Empty,Empty,Empty,Empty
+H11,SYBR,,Unkn,,NaN,NaN,1,1,Empty,Empty,Empty,Empty,Empty,Empty
+H12,SYBR,,Unkn,,NaN,NaN,1,1,Empty,Empty,Empty,Empty,Empty,Empty
+A01,SYBR,,Unkn,,22.23334039,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Actb,Yes
+A02,SYBR,,Unkn,,22.12349167,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Actb,Yes
+A03,SYBR,,Unkn,,22.03554295,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Actb,Yes
+A04,SYBR,,Unkn,,22.01720653,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Actb,Yes
+A05,SYBR,,Unkn,,22.40179734,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Actb,Yes
+A06,SYBR,,Unkn,,22.33987547,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Actb,Yes
+A07,SYBR,,Unkn,,22.12472271,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Actb,Yes
+A08,SYBR,,Unkn,,22.09945325,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Actb,Yes
+A09,SYBR,,Unkn,,22.47870778,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Actb,Yes
+A10,SYBR,,Unkn,,22.39417319,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Actb,Yes
+A11,SYBR,,Unkn,,22.45276983,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Actb,Yes
+A12,SYBR,,Unkn,,22.50150673,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Actb,Yes
+B01,SYBR,,Unkn,,21.69737329,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Spp1,No
+B02,SYBR,,Unkn,,21.65867245,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Spp1,No
+B03,SYBR,,Unkn,,21.69508404,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Spp1,No
+B04,SYBR,,Unkn,,21.6629838,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Spp1,No
+B05,SYBR,,Unkn,,21.83976985,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Spp1,No
+B06,SYBR,,Unkn,,21.67137089,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Spp1,No
+B07,SYBR,,Unkn,,21.74002222,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Spp1,No
+B08,SYBR,,Unkn,,21.60450745,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Spp1,No
+B09,SYBR,,Unkn,,22.49063922,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Spp1,No
+B10,SYBR,,Unkn,,22.3362246,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Spp1,No
+B11,SYBR,,Unkn,,21.39341504,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Spp1,No
+B12,SYBR,,Unkn,,21.38688277,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Spp1,No
+C01,SYBR,,Unkn,,25.87442772,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Ifit1,No
+C02,SYBR,,Unkn,,25.65878488,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Ifit1,No
+C03,SYBR,,Unkn,,25.50481291,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Ifit1,No
+C04,SYBR,,Unkn,,25.47631009,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Ifit1,No
+C05,SYBR,,Unkn,,25.26980109,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Ifit1,No
+C06,SYBR,,Unkn,,25.21731791,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Ifit1,No
+C07,SYBR,,Unkn,,25.65178438,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Ifit1,No
+C08,SYBR,,Unkn,,25.63367303,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Ifit1,No
+C09,SYBR,,Unkn,,25.43977984,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Ifit1,No
+C10,SYBR,,Unkn,,25.33513306,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Ifit1,No
+C11,SYBR,,Unkn,,24.2365848,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Ifit1,No
+C12,SYBR,,Unkn,,24.19065198,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Ifit1,No
+D01,SYBR,,Unkn,,28.94252237,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Gbp2,No
+D02,SYBR,,Unkn,,28.94898705,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Gbp2,No
+D03,SYBR,,Unkn,,28.91788196,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Gbp2,No
+D04,SYBR,,Unkn,,28.98731059,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Gbp2,No
+D05,SYBR,,Unkn,,28.80035261,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Gbp2,No
+D06,SYBR,,Unkn,,28.58585923,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Gbp2,No
+D07,SYBR,,Unkn,,28.80646318,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Gbp2,No
+D08,SYBR,,Unkn,,28.95499042,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Gbp2,No
+D09,SYBR,,Unkn,,28.48180255,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Gbp2,No
+D10,SYBR,,Unkn,,28.2947386,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Gbp2,No
+D11,SYBR,,Unkn,,25.86613983,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Gbp2,No
+D12,SYBR,,Unkn,,25.86950071,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Gbp2,No
+E01,SYBR,,Unkn,,24.56685346,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Oasl2,No
+E02,SYBR,,Unkn,,24.40498869,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Oasl2,No
+E03,SYBR,,Unkn,,24.10837839,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Oasl2,No
+E04,SYBR,,Unkn,,24.09383778,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Oasl2,No
+E05,SYBR,,Unkn,,24.52520654,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Oasl2,No
+E06,SYBR,,Unkn,,24.23895064,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Oasl2,No
+E07,SYBR,,Unkn,,24.39080581,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Oasl2,No
+E08,SYBR,,Unkn,,24.47676116,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Oasl2,No
+E09,SYBR,,Unkn,,24.75927041,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Oasl2,No
+E10,SYBR,,Unkn,,24.40884758,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Oasl2,No
+E11,SYBR,,Unkn,,23.00331273,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Oasl2,No
+E12,SYBR,,Unkn,,23.15032401,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Oasl2,No
+F01,SYBR,,Unkn,,21.40526372,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Irf7,No
+F02,SYBR,,Unkn,,21.28417865,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Irf7,No
+F03,SYBR,,Unkn,,21.22216039,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Irf7,No
+F04,SYBR,,Unkn,,21.28290578,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Irf7,No
+F05,SYBR,,Unkn,,21.44783831,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Irf7,No
+F06,SYBR,,Unkn,,21.20228099,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Irf7,No
+F07,SYBR,,Unkn,,21.38896756,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Irf7,No
+F08,SYBR,,Unkn,,21.25043767,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Irf7,No
+F09,SYBR,,Unkn,,21.28335343,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Irf7,No
+F10,SYBR,,Unkn,,21.24208716,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Irf7,No
+F11,SYBR,,Unkn,,20.15310709,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Irf7,No
+F12,SYBR,,Unkn,,20.20084697,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Irf7,No
+G01,SYBR,,Unkn,,22.16609683,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Usp18,No
+G02,SYBR,,Unkn,,22.20200586,NaN,2,2,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Usp18,No
+G03,SYBR,,Unkn,,22.09457841,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Usp18,No
+G04,SYBR,,Unkn,,22.11887844,NaN,2,2,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Usp18,No
+G05,SYBR,,Unkn,,22.19250388,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Usp18,No
+G06,SYBR,,Unkn,,21.84814896,NaN,2,2,2h A485 Unchallenged,2h,A485,Unchallenged,Usp18,No
+G07,SYBR,,Unkn,,22.21839043,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Usp18,No
+G08,SYBR,,Unkn,,22.25936516,NaN,2,2,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Usp18,No
+G09,SYBR,,Unkn,,22.52182544,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Usp18,No
+G10,SYBR,,Unkn,,22.35879706,NaN,2,2,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Usp18,No
+G11,SYBR,,Unkn,,22.00995579,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Usp18,No
+G12,SYBR,,Unkn,,21.95174865,NaN,2,2,24h A485 Unchallenged,24h,A485,Unchallenged,Usp18,No
+H01,SYBR,,Unkn,,NaN,NaN,2,2,NTC,NTC,NTC,NTC,Actb,No
+H02,SYBR,,Unkn,,NaN,NaN,2,2,NTC,NTC,NTC,NTC,Spp1,No
+H03,SYBR,,Unkn,,NaN,NaN,2,2,NTC,NTC,NTC,NTC,Ifit1,No
+H04,SYBR,,Unkn,,NaN,NaN,2,2,NTC,NTC,NTC,NTC,Gbp2,No
+H05,SYBR,,Unkn,,NaN,NaN,2,2,NTC,NTC,NTC,NTC,Oasl2,No
+H06,SYBR,,Unkn,,NaN,NaN,2,2,NTC,NTC,NTC,NTC,Irf7,No
+H07,SYBR,,Unkn,,NaN,NaN,2,2,NTC,NTC,NTC,NTC,Usp18,No
+H08,SYBR,,Unkn,,NaN,NaN,2,2,Empty,Empty,Empty,Empty,Empty,Empty
+H09,SYBR,,Unkn,,NaN,NaN,2,2,Empty,Empty,Empty,Empty,Empty,Empty
+H10,SYBR,,Unkn,,NaN,NaN,2,2,Empty,Empty,Empty,Empty,Empty,Empty
+H11,SYBR,,Unkn,,NaN,NaN,2,2,Empty,Empty,Empty,Empty,Empty,Empty
+H12,SYBR,,Unkn,,NaN,NaN,2,2,Empty,Empty,Empty,Empty,Empty,Empty
+A01,SYBR,,Unkn,,22.18260135,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Actb,Yes
+A02,SYBR,,Unkn,,21.81722768,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Actb,Yes
+A03,SYBR,,Unkn,,21.7852851,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Actb,Yes
+A04,SYBR,,Unkn,,21.72945631,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Actb,Yes
+A05,SYBR,,Unkn,,21.94805582,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Actb,Yes
+A06,SYBR,,Unkn,,21.35738166,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Actb,Yes
+A07,SYBR,,Unkn,,21.37262018,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Actb,Yes
+A08,SYBR,,Unkn,,20.96913669,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Actb,Yes
+A09,SYBR,,Unkn,,22.30628788,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Actb,Yes
+A10,SYBR,,Unkn,,22.3004429,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Actb,Yes
+A11,SYBR,,Unkn,,22.4373452,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Actb,Yes
+A12,SYBR,,Unkn,,22.3310051,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Actb,Yes
+B01,SYBR,,Unkn,,21.57037532,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Spp1,No
+B02,SYBR,,Unkn,,21.48194541,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Spp1,No
+B03,SYBR,,Unkn,,21.50645223,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Spp1,No
+B04,SYBR,,Unkn,,21.44542545,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Spp1,No
+B05,SYBR,,Unkn,,21.48881918,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Spp1,No
+B06,SYBR,,Unkn,,21.39429673,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Spp1,No
+B07,SYBR,,Unkn,,21.4302759,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Spp1,No
+B08,SYBR,,Unkn,,21.43966406,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Spp1,No
+B09,SYBR,,Unkn,,22.11955677,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Spp1,No
+B10,SYBR,,Unkn,,22.13659434,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Spp1,No
+B11,SYBR,,Unkn,,21.22217902,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Spp1,No
+B12,SYBR,,Unkn,,21.19434791,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Spp1,No
+C01,SYBR,,Unkn,,25.55627569,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Ifit1,No
+C02,SYBR,,Unkn,,25.45150458,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Ifit1,No
+C03,SYBR,,Unkn,,25.33114898,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Ifit1,No
+C04,SYBR,,Unkn,,25.25456974,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Ifit1,No
+C05,SYBR,,Unkn,,24.97198215,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Ifit1,No
+C06,SYBR,,Unkn,,24.91063807,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Ifit1,No
+C07,SYBR,,Unkn,,25.27139506,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Ifit1,No
+C08,SYBR,,Unkn,,25.31000502,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Ifit1,No
+C09,SYBR,,Unkn,,24.89734354,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Ifit1,No
+C10,SYBR,,Unkn,,24.98141655,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Ifit1,No
+C11,SYBR,,Unkn,,23.83837136,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Ifit1,No
+C12,SYBR,,Unkn,,23.90081967,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Ifit1,No
+D01,SYBR,,Unkn,,28.65563104,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Gbp2,No
+D02,SYBR,,Unkn,,28.47514475,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Gbp2,No
+D03,SYBR,,Unkn,,28.71139467,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Gbp2,No
+D04,SYBR,,Unkn,,28.5605502,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Gbp2,No
+D05,SYBR,,Unkn,,28.33796963,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Gbp2,No
+D06,SYBR,,Unkn,,28.33133852,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Gbp2,No
+D07,SYBR,,Unkn,,28.62452374,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Gbp2,No
+D08,SYBR,,Unkn,,28.44225953,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Gbp2,No
+D09,SYBR,,Unkn,,28.08051788,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Gbp2,No
+D10,SYBR,,Unkn,,28.02779644,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Gbp2,No
+D11,SYBR,,Unkn,,25.44638382,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Gbp2,No
+D12,SYBR,,Unkn,,25.6015787,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Gbp2,No
+E01,SYBR,,Unkn,,24.27355608,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Oasl2,No
+E02,SYBR,,Unkn,,24.2107887,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Oasl2,No
+E03,SYBR,,Unkn,,24.17107711,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Oasl2,No
+E04,SYBR,,Unkn,,23.65866829,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Oasl2,No
+E05,SYBR,,Unkn,,24.10933609,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Oasl2,No
+E06,SYBR,,Unkn,,23.89618246,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Oasl2,No
+E07,SYBR,,Unkn,,23.96899013,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Oasl2,No
+E08,SYBR,,Unkn,,24.0848073,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Oasl2,No
+E09,SYBR,,Unkn,,23.94410319,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Oasl2,No
+E10,SYBR,,Unkn,,24.01991512,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Oasl2,No
+E11,SYBR,,Unkn,,22.66701237,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Oasl2,No
+E12,SYBR,,Unkn,,22.22099127,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Oasl2,No
+F01,SYBR,,Unkn,,21.34219541,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Irf7,No
+F02,SYBR,,Unkn,,21.19453551,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Irf7,No
+F03,SYBR,,Unkn,,21.08599714,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Irf7,No
+F04,SYBR,,Unkn,,21.10199551,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Irf7,No
+F05,SYBR,,Unkn,,21.17324827,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Irf7,No
+F06,SYBR,,Unkn,,21.22971231,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Irf7,No
+F07,SYBR,,Unkn,,21.2421501,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Irf7,No
+F08,SYBR,,Unkn,,21.15284829,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Irf7,No
+F09,SYBR,,Unkn,,21.03189813,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Irf7,No
+F10,SYBR,,Unkn,,21.02339682,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Irf7,No
+F11,SYBR,,Unkn,,19.8066229,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Irf7,No
+F12,SYBR,,Unkn,,19.84729009,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Irf7,No
+G01,SYBR,,Unkn,,22.10771609,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Usp18,No
+G02,SYBR,,Unkn,,22.06570515,NaN,3,3,2h DMSO Unchallenged,2h,DMSO,Unchallenged,Usp18,No
+G03,SYBR,,Unkn,,22.01396811,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Usp18,No
+G04,SYBR,,Unkn,,21.94824895,NaN,3,3,2h SGC-CBP30 Unchallenged,2h,SGC-CBP30,Unchallenged,Usp18,No
+G05,SYBR,,Unkn,,21.96425408,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Usp18,No
+G06,SYBR,,Unkn,,21.60700421,NaN,3,3,2h A485 Unchallenged,2h,A485,Unchallenged,Usp18,No
+G07,SYBR,,Unkn,,21.72804996,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Usp18,No
+G08,SYBR,,Unkn,,21.67449992,NaN,3,3,24h DMSO Unchallenged,24h,DMSO,Unchallenged,Usp18,No
+G09,SYBR,,Unkn,,22.18347898,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Usp18,No
+G10,SYBR,,Unkn,,22.09393222,NaN,3,3,24h SGC-CBP30 Unchallenged,24h,SGC-CBP30,Unchallenged,Usp18,No
+G11,SYBR,,Unkn,,21.45609822,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Usp18,No
+G12,SYBR,,Unkn,,21.43436222,NaN,3,3,24h A485 Unchallenged,24h,A485,Unchallenged,Usp18,No
+H01,SYBR,,Unkn,,NaN,NaN,3,3,NTC,NTC,NTC,NTC,Actb,No
+H02,SYBR,,Unkn,,NaN,NaN,3,3,NTC,NTC,NTC,NTC,Spp1,No
+H03,SYBR,,Unkn,,NaN,NaN,3,3,NTC,NTC,NTC,NTC,Ifit1,No
+H04,SYBR,,Unkn,,NaN,NaN,3,3,NTC,NTC,NTC,NTC,Gbp2,No
+H05,SYBR,,Unkn,,NaN,NaN,3,3,NTC,NTC,NTC,NTC,Oasl2,No
+H06,SYBR,,Unkn,,NaN,NaN,3,3,NTC,NTC,NTC,NTC,Irf7,No
+H07,SYBR,,Unkn,,NaN,NaN,3,3,NTC,NTC,NTC,NTC,Usp18,No
+H08,SYBR,,Unkn,,NaN,NaN,3,3,Empty,Empty,Empty,Empty,Empty,Empty
+H09,SYBR,,Unkn,,NaN,NaN,3,3,Empty,Empty,Empty,Empty,Empty,Empty
+H10,SYBR,,Unkn,,NaN,NaN,3,3,Empty,Empty,Empty,Empty,Empty,Empty
+H11,SYBR,,Unkn,,NaN,NaN,3,3,Empty,Empty,Empty,Empty,Empty,Empty
+H12,SYBR,,Unkn,,NaN,NaN,3,3,Empty,Empty,Empty,Empty,Empty,Empty
+A01,SYBR,,Unkn,,22.29652535,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Actb,Yes
+A02,SYBR,,Unkn,,22.20026224,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Actb,Yes
+A03,SYBR,,Unkn,,22.42925271,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Actb,Yes
+A04,SYBR,,Unkn,,22.2270631,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Actb,Yes
+A05,SYBR,,Unkn,,22.17326277,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Actb,Yes
+A06,SYBR,,Unkn,,22.05161367,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Actb,Yes
+A07,SYBR,,Unkn,,22.12311398,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Actb,Yes
+A08,SYBR,,Unkn,,22.06515414,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Actb,Yes
+A09,SYBR,,Unkn,,22.71234077,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Actb,Yes
+A10,SYBR,,Unkn,,22.54018962,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Actb,Yes
+A11,SYBR,,Unkn,,22.47313091,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Actb,Yes
+A12,SYBR,,Unkn,,22.41767011,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Actb,Yes
+B01,SYBR,,Unkn,,25.61784207,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Spp1,No
+B02,SYBR,,Unkn,,25.50521943,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Spp1,No
+B03,SYBR,,Unkn,,25.73568484,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Spp1,No
+B04,SYBR,,Unkn,,25.55282051,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Spp1,No
+B05,SYBR,,Unkn,,25.42217818,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Spp1,No
+B06,SYBR,,Unkn,,25.42447132,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Spp1,No
+B07,SYBR,,Unkn,,25.64665742,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Spp1,No
+B08,SYBR,,Unkn,,25.59600809,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Spp1,No
+B09,SYBR,,Unkn,,26.41037078,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Spp1,No
+B10,SYBR,,Unkn,,26.57270866,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Spp1,No
+B11,SYBR,,Unkn,,25.57235703,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Spp1,No
+B12,SYBR,,Unkn,,25.69708112,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Spp1,No
+C01,SYBR,,Unkn,,24.7613333,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Ifit1,No
+C02,SYBR,,Unkn,,24.6160471,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Ifit1,No
+C03,SYBR,,Unkn,,24.61319687,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Ifit1,No
+C04,SYBR,,Unkn,,24.57579976,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Ifit1,No
+C05,SYBR,,Unkn,,23.81676371,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Ifit1,No
+C06,SYBR,,Unkn,,23.91132731,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Ifit1,No
+C07,SYBR,,Unkn,,24.39763234,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Ifit1,No
+C08,SYBR,,Unkn,,24.43006924,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Ifit1,No
+C09,SYBR,,Unkn,,23.91579389,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Ifit1,No
+C10,SYBR,,Unkn,,24.0258847,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Ifit1,No
+C11,SYBR,,Unkn,,23.0258957,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Ifit1,No
+C12,SYBR,,Unkn,,23.05537707,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Ifit1,No
+D01,SYBR,,Unkn,,25.43835499,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Gbp2,No
+D02,SYBR,,Unkn,,25.23400171,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Gbp2,No
+D03,SYBR,,Unkn,,25.12885432,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Gbp2,No
+D04,SYBR,,Unkn,,25.14304573,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Gbp2,No
+D05,SYBR,,Unkn,,24.13524948,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Gbp2,No
+D06,SYBR,,Unkn,,24.09481488,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Gbp2,No
+D07,SYBR,,Unkn,,24.79390436,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Gbp2,No
+D08,SYBR,,Unkn,,24.80471926,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Gbp2,No
+D09,SYBR,,Unkn,,23.81550048,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Gbp2,No
+D10,SYBR,,Unkn,,23.76034827,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Gbp2,No
+D11,SYBR,,Unkn,,22.88216576,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Gbp2,No
+D12,SYBR,,Unkn,,23.01251339,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Gbp2,No
+E01,SYBR,,Unkn,,24.72602852,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Oasl2,No
+E02,SYBR,,Unkn,,24.69877905,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Oasl2,No
+E03,SYBR,,Unkn,,24.34350529,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Oasl2,No
+E04,SYBR,,Unkn,,24.42334482,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Oasl2,No
+E05,SYBR,,Unkn,,25.16363347,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Oasl2,No
+E06,SYBR,,Unkn,,24.93072565,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Oasl2,No
+E07,SYBR,,Unkn,,24.36866143,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Oasl2,No
+E08,SYBR,,Unkn,,24.34766616,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Oasl2,No
+E09,SYBR,,Unkn,,23.86553418,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Oasl2,No
+E10,SYBR,,Unkn,,23.84884679,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Oasl2,No
+E11,SYBR,,Unkn,,23.68441998,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Oasl2,No
+E12,SYBR,,Unkn,,23.92223573,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Oasl2,No
+F01,SYBR,,Unkn,,22.91162805,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Irf7,No
+F02,SYBR,,Unkn,,22.57000703,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Irf7,No
+F03,SYBR,,Unkn,,22.96026085,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Irf7,No
+F04,SYBR,,Unkn,,23.05178179,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Irf7,No
+F05,SYBR,,Unkn,,22.95607381,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Irf7,No
+F06,SYBR,,Unkn,,22.69407028,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Irf7,No
+F07,SYBR,,Unkn,,22.68362696,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Irf7,No
+F08,SYBR,,Unkn,,22.81331693,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Irf7,No
+F09,SYBR,,Unkn,,22.15391492,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Irf7,No
+F10,SYBR,,Unkn,,22.15402482,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Irf7,No
+F11,SYBR,,Unkn,,21.67976452,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Irf7,No
+F12,SYBR,,Unkn,,21.5372477,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Irf7,No
+G01,SYBR,,Unkn,,21.1130134,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Usp18,No
+G02,SYBR,,Unkn,,20.81344282,,4,1,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Usp18,No
+G03,SYBR,,Unkn,,20.64109668,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Usp18,No
+G04,SYBR,,Unkn,,20.87261021,,4,1,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Usp18,No
+G05,SYBR,,Unkn,,20.69764131,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Usp18,No
+G06,SYBR,,Unkn,,20.7526441,,4,1,2h A485 2h IFNb,2h,A485,2h IFNb,Usp18,No
+G07,SYBR,,Unkn,,20.69852741,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Usp18,No
+G08,SYBR,,Unkn,,20.72479725,,4,1,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Usp18,No
+G09,SYBR,,Unkn,,20.51106165,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Usp18,No
+G10,SYBR,,Unkn,,20.47097122,,4,1,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Usp18,No
+G11,SYBR,,Unkn,,20.25446346,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Usp18,No
+G12,SYBR,,Unkn,,20.30917245,,4,1,24h A485 2h IFNb,24h,A485,2h IFNb,Usp18,No
+H01,SYBR,,Unkn,,NaN,,4,1,NTC,NTC,NTC,2h IFNb,Actb,No
+H02,SYBR,,Unkn,,NaN,,4,1,NTC,NTC,NTC,2h IFNb,Spp1,No
+H03,SYBR,,Unkn,,NaN,,4,1,NTC,NTC,NTC,2h IFNb,Ifit1,No
+H04,SYBR,,Unkn,,NaN,,4,1,NTC,NTC,NTC,2h IFNb,Gbp2,No
+H05,SYBR,,Unkn,,NaN,,4,1,NTC,NTC,NTC,2h IFNb,Oasl2,No
+H06,SYBR,,Unkn,,NaN,,4,1,NTC,NTC,NTC,2h IFNb,Irf7,No
+H07,SYBR,,Unkn,,NaN,,4,1,NTC,NTC,NTC,2h IFNb,Usp18,No
+H08,SYBR,,Unkn,,NaN,,4,1,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H09,SYBR,,Unkn,,NaN,,4,1,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H10,SYBR,,Unkn,,NaN,,4,1,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H11,SYBR,,Unkn,,NaN,,4,1,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H12,SYBR,,Unkn,,NaN,,4,1,Empty,Empty,Empty,2h IFNb,Empty,Empty
+A01,SYBR,,Unkn,,22.89495444,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Actb,Yes
+A02,SYBR,,Unkn,,22.70025033,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Actb,Yes
+A03,SYBR,,Unkn,,22.31278972,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Actb,Yes
+A04,SYBR,,Unkn,,22.14014343,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Actb,Yes
+A05,SYBR,,Unkn,,22.32679622,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Actb,Yes
+A06,SYBR,,Unkn,,22.22333362,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Actb,Yes
+A07,SYBR,,Unkn,,22.36940062,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Actb,Yes
+A08,SYBR,,Unkn,,22.27111416,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Actb,Yes
+A09,SYBR,,Unkn,,23.21472113,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Actb,Yes
+A10,SYBR,,Unkn,,23.10986411,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Actb,Yes
+A11,SYBR,,Unkn,,22.67855539,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Actb,Yes
+A12,SYBR,,Unkn,,22.78707136,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Actb,Yes
+B01,SYBR,,Unkn,,23.26735223,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Spp1,No
+B02,SYBR,,Unkn,,23.24471788,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Spp1,No
+B03,SYBR,,Unkn,,23.04649521,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Spp1,No
+B04,SYBR,,Unkn,,22.89412826,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Spp1,No
+B05,SYBR,,Unkn,,23.12638935,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Spp1,No
+B06,SYBR,,Unkn,,23.12974747,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Spp1,No
+B07,SYBR,,Unkn,,23.09670516,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Spp1,No
+B08,SYBR,,Unkn,,23.18514893,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Spp1,No
+B09,SYBR,,Unkn,,24.03575259,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Spp1,No
+B10,SYBR,,Unkn,,24.04569214,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Spp1,No
+B11,SYBR,,Unkn,,22.94349776,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Spp1,No
+B12,SYBR,,Unkn,,22.9186508,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Spp1,No
+C01,SYBR,,Unkn,,24.65795192,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Ifit1,No
+C02,SYBR,,Unkn,,24.49573059,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Ifit1,No
+C03,SYBR,,Unkn,,23.76287311,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Ifit1,No
+C04,SYBR,,Unkn,,23.78204691,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Ifit1,No
+C05,SYBR,,Unkn,,23.80152922,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Ifit1,No
+C06,SYBR,,Unkn,,23.87603454,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Ifit1,No
+C07,SYBR,,Unkn,,24.24486587,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Ifit1,No
+C08,SYBR,,Unkn,,24.2517687,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Ifit1,No
+C09,SYBR,,Unkn,,24.11165216,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Ifit1,No
+C10,SYBR,,Unkn,,24.08713893,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Ifit1,No
+C11,SYBR,,Unkn,,23.07035786,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Ifit1,No
+C12,SYBR,,Unkn,,23.14428003,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Ifit1,No
+D01,SYBR,,Unkn,,24.56398461,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Gbp2,No
+D02,SYBR,,Unkn,,24.4618663,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Gbp2,No
+D03,SYBR,,Unkn,,24.12956649,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Gbp2,No
+D04,SYBR,,Unkn,,24.14101613,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Gbp2,No
+D05,SYBR,,Unkn,,24.0956535,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Gbp2,No
+D06,SYBR,,Unkn,,24.06197832,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Gbp2,No
+D07,SYBR,,Unkn,,24.38764797,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Gbp2,No
+D08,SYBR,,Unkn,,24.3815408,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Gbp2,No
+D09,SYBR,,Unkn,,23.84269783,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Gbp2,No
+D10,SYBR,,Unkn,,23.7980213,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Gbp2,No
+D11,SYBR,,Unkn,,22.86979023,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Gbp2,No
+D12,SYBR,,Unkn,,22.89038733,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Gbp2,No
+E01,SYBR,,Unkn,,24.13781163,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Oasl2,No
+E02,SYBR,,Unkn,,23.90795731,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Oasl2,No
+E03,SYBR,,Unkn,,23.62171043,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Oasl2,No
+E04,SYBR,,Unkn,,23.55319083,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Oasl2,No
+E05,SYBR,,Unkn,,24.50890458,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Oasl2,No
+E06,SYBR,,Unkn,,24.37711087,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Oasl2,No
+E07,SYBR,,Unkn,,24.1281825,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Oasl2,No
+E08,SYBR,,Unkn,,24.03211809,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Oasl2,No
+E09,SYBR,,Unkn,,23.99940887,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Oasl2,No
+E10,SYBR,,Unkn,,23.88990298,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Oasl2,No
+E11,SYBR,,Unkn,,23.26934599,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Oasl2,No
+E12,SYBR,,Unkn,,23.45130608,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Oasl2,No
+F01,SYBR,,Unkn,,22.81054441,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Irf7,No
+F02,SYBR,,Unkn,,22.73790998,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Irf7,No
+F03,SYBR,,Unkn,,22.16157826,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Irf7,No
+F04,SYBR,,Unkn,,22.220245,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Irf7,No
+F05,SYBR,,Unkn,,22.54666671,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Irf7,No
+F06,SYBR,,Unkn,,22.54353618,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Irf7,No
+F07,SYBR,,Unkn,,22.51712935,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Irf7,No
+F08,SYBR,,Unkn,,22.55620083,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Irf7,No
+F09,SYBR,,Unkn,,22.38322017,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Irf7,No
+F10,SYBR,,Unkn,,22.33469621,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Irf7,No
+F11,SYBR,,Unkn,,21.31145426,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Irf7,No
+F12,SYBR,,Unkn,,21.42461353,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Irf7,No
+G01,SYBR,,Unkn,,20.69660018,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Usp18,No
+G02,SYBR,,Unkn,,20.6985218,,5,2,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Usp18,No
+G03,SYBR,,Unkn,,20.25201325,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Usp18,No
+G04,SYBR,,Unkn,,20.23642779,,5,2,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Usp18,No
+G05,SYBR,,Unkn,,20.60359587,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Usp18,No
+G06,SYBR,,Unkn,,20.58080402,,5,2,2h A485 2h IFNb,2h,A485,2h IFNb,Usp18,No
+G07,SYBR,,Unkn,,20.62653562,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Usp18,No
+G08,SYBR,,Unkn,,20.64060465,,5,2,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Usp18,No
+G09,SYBR,,Unkn,,20.75361532,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Usp18,No
+G10,SYBR,,Unkn,,20.79693819,,5,2,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Usp18,No
+G11,SYBR,,Unkn,,20.27203242,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Usp18,No
+G12,SYBR,,Unkn,,20.31461586,,5,2,24h A485 2h IFNb,24h,A485,2h IFNb,Usp18,No
+H01,SYBR,,Unkn,,NaN,,5,2,NTC,NTC,NTC,2h IFNb,Actb,No
+H02,SYBR,,Unkn,,NaN,,5,2,NTC,NTC,NTC,2h IFNb,Spp1,No
+H03,SYBR,,Unkn,,NaN,,5,2,NTC,NTC,NTC,2h IFNb,Ifit1,No
+H04,SYBR,,Unkn,,NaN,,5,2,NTC,NTC,NTC,2h IFNb,Gbp2,No
+H05,SYBR,,Unkn,,NaN,,5,2,NTC,NTC,NTC,2h IFNb,Oasl2,No
+H06,SYBR,,Unkn,,NaN,,5,2,NTC,NTC,NTC,2h IFNb,Irf7,No
+H07,SYBR,,Unkn,,NaN,,5,2,NTC,NTC,NTC,2h IFNb,Usp18,No
+H08,SYBR,,Unkn,,NaN,,5,2,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H09,SYBR,,Unkn,,NaN,,5,2,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H10,SYBR,,Unkn,,NaN,,5,2,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H11,SYBR,,Unkn,,NaN,,5,2,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H12,SYBR,,Unkn,,NaN,,5,2,Empty,Empty,Empty,2h IFNb,Empty,Empty
+A01,SYBR,,Unkn,,22.4237399,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Actb,Yes
+A02,SYBR,,Unkn,,22.22853673,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Actb,Yes
+A03,SYBR,,Unkn,,22.65485455,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Actb,Yes
+A04,SYBR,,Unkn,,22.40867616,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Actb,Yes
+A05,SYBR,,Unkn,,22.43930831,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Actb,Yes
+A06,SYBR,,Unkn,,22.27301615,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Actb,Yes
+A07,SYBR,,Unkn,,22.55903976,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Actb,Yes
+A08,SYBR,,Unkn,,22.49069336,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Actb,Yes
+A09,SYBR,,Unkn,,23.20812939,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Actb,Yes
+A10,SYBR,,Unkn,,23.12991353,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Actb,Yes
+A11,SYBR,,Unkn,,23.39539493,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Actb,Yes
+A12,SYBR,,Unkn,,23.51303098,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Actb,Yes
+B01,SYBR,,Unkn,,23.10314771,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Spp1,No
+B02,SYBR,,Unkn,,23.07801816,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Spp1,No
+B03,SYBR,,Unkn,,23.41556564,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Spp1,No
+B04,SYBR,,Unkn,,23.35419504,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Spp1,No
+B05,SYBR,,Unkn,,23.41452917,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Spp1,No
+B06,SYBR,,Unkn,,23.38805411,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Spp1,No
+B07,SYBR,,Unkn,,23.26660338,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Spp1,No
+B08,SYBR,,Unkn,,23.31002286,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Spp1,No
+B09,SYBR,,Unkn,,24.05520699,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Spp1,No
+B10,SYBR,,Unkn,,24.06467291,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Spp1,No
+B11,SYBR,,Unkn,,23.76466655,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Spp1,No
+B12,SYBR,,Unkn,,23.75507327,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Spp1,No
+C01,SYBR,,Unkn,,24.18133663,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Ifit1,No
+C02,SYBR,,Unkn,,24.11474615,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Ifit1,No
+C03,SYBR,,Unkn,,24.27404551,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Ifit1,No
+C04,SYBR,,Unkn,,24.30610788,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Ifit1,No
+C05,SYBR,,Unkn,,24.16554212,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Ifit1,No
+C06,SYBR,,Unkn,,24.1769045,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Ifit1,No
+C07,SYBR,,Unkn,,24.51920068,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Ifit1,No
+C08,SYBR,,Unkn,,24.4848445,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Ifit1,No
+C09,SYBR,,Unkn,,24.12936882,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Ifit1,No
+C10,SYBR,,Unkn,,24.22471952,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Ifit1,No
+C11,SYBR,,Unkn,,24.0297478,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Ifit1,No
+C12,SYBR,,Unkn,,24.08785769,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Ifit1,No
+D01,SYBR,,Unkn,,24.29051218,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Gbp2,No
+D02,SYBR,,Unkn,,24.14641794,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Gbp2,No
+D03,SYBR,,Unkn,,24.50090703,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Gbp2,No
+D04,SYBR,,Unkn,,24.52661046,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Gbp2,No
+D05,SYBR,,Unkn,,23.97167203,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Gbp2,No
+D06,SYBR,,Unkn,,23.97804246,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Gbp2,No
+D07,SYBR,,Unkn,,24.39949994,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Gbp2,No
+D08,SYBR,,Unkn,,24.40917337,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Gbp2,No
+D09,SYBR,,Unkn,,23.64818471,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Gbp2,No
+D10,SYBR,,Unkn,,23.70421081,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Gbp2,No
+D11,SYBR,,Unkn,,24.04166946,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Gbp2,No
+D12,SYBR,,Unkn,,24.11975861,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Gbp2,No
+E01,SYBR,,Unkn,,23.81200615,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Oasl2,No
+E02,SYBR,,Unkn,,23.72566953,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Oasl2,No
+E03,SYBR,,Unkn,,24.01655834,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Oasl2,No
+E04,SYBR,,Unkn,,24.1731004,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Oasl2,No
+E05,SYBR,,Unkn,,24.44775259,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Oasl2,No
+E06,SYBR,,Unkn,,24.33556959,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Oasl2,No
+E07,SYBR,,Unkn,,24.17441358,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Oasl2,No
+E08,SYBR,,Unkn,,24.21867798,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Oasl2,No
+E09,SYBR,,Unkn,,23.79803412,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Oasl2,No
+E10,SYBR,,Unkn,,23.71846004,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Oasl2,No
+E11,SYBR,,Unkn,,24.0169379,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Oasl2,No
+E12,SYBR,,Unkn,,24.22269823,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Oasl2,No
+F01,SYBR,,Unkn,,22.40451069,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Irf7,No
+F02,SYBR,,Unkn,,22.36476997,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Irf7,No
+F03,SYBR,,Unkn,,22.46013474,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Irf7,No
+F04,SYBR,,Unkn,,22.52748319,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Irf7,No
+F05,SYBR,,Unkn,,22.82347003,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Irf7,No
+F06,SYBR,,Unkn,,22.85608781,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Irf7,No
+F07,SYBR,,Unkn,,22.78112324,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Irf7,No
+F08,SYBR,,Unkn,,22.79774203,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Irf7,No
+F09,SYBR,,Unkn,,22.70222212,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Irf7,No
+F10,SYBR,,Unkn,,22.79208084,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Irf7,No
+F11,SYBR,,Unkn,,22.23360139,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Irf7,No
+F12,SYBR,,Unkn,,22.36771873,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Irf7,No
+G01,SYBR,,Unkn,,20.46157467,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Usp18,No
+G02,SYBR,,Unkn,,20.41714568,,6,3,2h DMSO 2h IFNb,2h,DMSO,2h IFNb,Usp18,No
+G03,SYBR,,Unkn,,20.70954408,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Usp18,No
+G04,SYBR,,Unkn,,20.76400886,,6,3,2h SGC-CBP30 2h IFNb,2h,SGC-CBP30,2h IFNb,Usp18,No
+G05,SYBR,,Unkn,,20.66151818,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Usp18,No
+G06,SYBR,,Unkn,,20.62686674,,6,3,2h A485 2h IFNb,2h,A485,2h IFNb,Usp18,No
+G07,SYBR,,Unkn,,20.83763941,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Usp18,No
+G08,SYBR,,Unkn,,20.90439611,,6,3,24h DMSO 2h IFNb,24h,DMSO,2h IFNb,Usp18,No
+G09,SYBR,,Unkn,,20.68939759,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Usp18,No
+G10,SYBR,,Unkn,,20.66224656,,6,3,24h SGC-CBP30 2h IFNb,24h,SGC-CBP30,2h IFNb,Usp18,No
+G11,SYBR,,Unkn,,21.22478341,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Usp18,No
+G12,SYBR,,Unkn,,21.26147596,,6,3,24h A485 2h IFNb,24h,A485,2h IFNb,Usp18,No
+H01,SYBR,,Unkn,,NaN,,6,3,NTC,NTC,NTC,2h IFNb,Actb,No
+H02,SYBR,,Unkn,,NaN,,6,3,NTC,NTC,NTC,2h IFNb,Spp1,No
+H03,SYBR,,Unkn,,NaN,,6,3,NTC,NTC,NTC,2h IFNb,Ifit1,No
+H04,SYBR,,Unkn,,NaN,,6,3,NTC,NTC,NTC,2h IFNb,Gbp2,No
+H05,SYBR,,Unkn,,NaN,,6,3,NTC,NTC,NTC,2h IFNb,Oasl2,No
+H06,SYBR,,Unkn,,NaN,,6,3,NTC,NTC,NTC,2h IFNb,Irf7,No
+H07,SYBR,,Unkn,,NaN,,6,3,NTC,NTC,NTC,2h IFNb,Usp18,No
+H08,SYBR,,Unkn,,NaN,,6,3,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H09,SYBR,,Unkn,,NaN,,6,3,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H10,SYBR,,Unkn,,NaN,,6,3,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H11,SYBR,,Unkn,,NaN,,6,3,Empty,Empty,Empty,2h IFNb,Empty,Empty
+H12,SYBR,,Unkn,,NaN,,6,3,Empty,Empty,Empty,2h IFNb,Empty,Empty

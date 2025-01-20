@@ -1,0 +1,16 @@
+name: rcistarget
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - bioconductor-rcistarget
+  - jupyter_client
+  - r-irkernel
+  - r-zoo
+  - r-visnetwork
+  - r-reshape2
+  - bioconductor-rtracklayer
+  - r-domc
+  - r-dorng
+  - r-doparallel

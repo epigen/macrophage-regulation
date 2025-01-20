@@ -1,0 +1,53 @@
+# provide at least one parameter per option (no empty parameters allowed)
+
+##### RESOURCES #####
+# memory in MB
+mem: '32000'
+mem_small: '16000'
+threads: 2
+partition: 'shortq'
+
+##### GENERAL #####
+annotation: config/KO150_unsupervised_analysis_annotation.csv
+result_path: results/KO150/special_analysis
+project_name: KO150
+
+##### PCA #####
+# (no configuration necessary)
+
+##### UMAP #####
+# information on the various parameters: https://umap-learn.readthedocs.io/en/latest/parameters.html
+# umap knn-graph will be generated for each metric once with the max(n_neighbors)
+# knn-graph parameters: metric  (default: euclidean), n_neighbors (default: 15)
+# embedding parameters: min_dist  (default: 0.1), n_components (default: 2)
+# connectivity visualization flag (0==no, 1==yes), computational expensive (slow), recommendation 0 for exploration and 1 for validation
+umap:
+    metrics: ['correlation']
+    n_neighbors: [100]
+    min_dist: [0.1]
+    n_components: [2,3]
+    densmap: 1
+    connectivity: 1
+    diagnostics: 0
+    
+##### HEATMAP #####
+# information on the ComplexHeatmap parameters: https://jokergoo.github.io/ComplexHeatmap-reference/book/index.html
+# distance metrics: for rows and columns. all metrics that are supported by stats::dist() (https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/dist) and 'pearson','spearman', and 'kendall'.
+# clustering methods: methods for hierarchical clustering that are supported by stats::hclust() (https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/hclust)
+# it is the most resource (memory) intensive method, leave empty [] if not required
+heatmap:
+    metrics: ['spearman'] #['spearman']
+    hclust_methods: ['complete'] #['complete']
+    
+##### VISUALIZATION #####
+# 2D/3D visualization with ggplot2 and plotly
+scatterplot2d:
+    size: 0.5
+    alpha: 1
+    
+# metadata column used for plotting of sequential PCs,... (or empty "", then first column of metadata data frame will be taken)
+metadata_of_interest: "hto_demux"
+
+# specify features of interest that will be highlgihted in the 2D plots (motivated by bioinformatics highlighting gene expression levels)
+# if not used leave empty []
+features_to_plot: ['CD115','CD11b','CD274','CD69','CD64','CD163','CD172a','CD14','CD80','Mac-2','CD95']

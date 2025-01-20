@@ -1,0 +1,20 @@
+name: enrichment_analysis
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - bioconductor-rgreat
+  - bioconductor-lola
+  - r-enrichr
+  - jupyter_client
+  - r-irkernel
+  - r-simplecache
+  - bioconductor-enrichplot
+  - r-svglite
+  - gseapy
+  - pip
+  - ipykernel
+  - seaborn
+  - fastcluster
+  - bioconductor-genomeinfodbdata

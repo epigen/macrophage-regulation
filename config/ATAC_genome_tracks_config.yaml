@@ -1,0 +1,80 @@
+
+##### RESOURCES #####
+# memory (mem) in MB
+partition: 'tinyq'
+mem: '4000'
+threads: 1
+
+##### GENERAL #####
+project_name: macroStim
+result_path: results/ATAC/
+sample_annotation: config/ATAC_genome_tracks_annotation.csv
+email: sreichl@cemm.at # used for UCSC hub generation
+
+##### PROCESSING #####
+# genome label for UCSC hub (hg38, mm10)
+genome: "mm10"
+
+# bigWig generation using deepTools::bamCoverage
+# https://deeptools.readthedocs.io/en/develop/content/tools/bamCoverage.html
+# recommendation for RNA-seq: "-p max --binSize 10  --normalizeUsing RPGC --effectiveGenomeSize 2407883318"
+# recommendation for ATAC-seq: "-p max --binSize 10  --normalizeUsing RPGC --effectiveGenomeSize 2407883318 --extendReads 175 "
+# genome sizes (https://deeptools.readthedocs.io/en/latest/content/feature/effectiveGenomeSize.html): hg38=2747877777, mm10=2407883318 
+bamCoverage_parameters: "-p max --binSize 10  --normalizeUsing RPGC --effectiveGenomeSize 2407883318 --extendReads 175"
+
+##### TRACK ANNOTATION #####
+# comma separated table (CSV) where each line is either a gene name (e.g., Tmem26) or a genomic region (e.g., chr4:88521700-88524300)
+# columns: gene_region, ymax (y-axis scale of tracks, if 0 auto-scale is used)
+gene_list: config/ATAC_genome_tracks_genes.csv
+
+# 12 column BED file annotation of the respective genome used for the annotation of the track (*.gz)
+# e.g., for mm10 from UCSC as gzip https://genome.ucsc.edu/cgi-bin/hgTables assembly:mm10 -> track:NCBI RefSeq -> table:refFlat; output format: BED
+genome_bed: resources/mm10_UCSC_genome.bed.gz
+
+##### VISUALIZATION using gtracks powered by pyGenomeTracks #####
+
+# position of x-axis
+x_axis: 'bottom'
+
+#  width of plot in cm (default: 40)
+width: 20
+
+# how many bases up- & downstream of start/end of a gene more to plot (e.g., to see accessible promoters)
+base_buffer: 2000
+
+# file type of the plot, options are "svg","pdf","png"
+file_type: "pdf"
+
+# define custom colors (in HEX) for groups from the annotation file
+track_colors:
+    ATAC_0h_Untreated: "#707070"
+    ATAC_Candida_02h: "#0072B2"
+    ATAC_Candida_04h: "#0072B2"
+    ATAC_Candida_06h: "#0072B2"
+    ATAC_Candida_08h: "#0072B2"
+    ATAC_Candida_24h: "#0072B2"
+    ATAC_IFN_beta_02h: "#D55E00"
+    ATAC_IFN_beta_04h: "#D55E00"
+    ATAC_IFN_beta_06h: "#D55E00"
+    ATAC_IFN_beta_08h: "#D55E00"
+    ATAC_IFN_beta_24h: "#D55E00"
+    ATAC_IFN_gamma_02h: "#E69F00"
+    ATAC_IFN_gamma_04h: "#E69F00"
+    ATAC_IFN_gamma_06h: "#E69F00"
+    ATAC_IFN_gamma_08h: "#E69F00"
+    ATAC_IFN_gamma_24h: "#E69F00"
+    ATAC_LCMV_02h: "#CC79A7"
+    ATAC_LCMV_04h: "#CC79A7"
+    ATAC_LCMV_06h: "#CC79A7"
+    ATAC_LCMV_08h: "#CC79A7"
+    ATAC_LCMV_24h: "#CC79A7"
+    ATAC_Listeria_02h: "#009E73"
+    ATAC_Listeria_04h: "#009E73"
+    ATAC_Listeria_06h: "#009E73"
+    ATAC_Listeria_08h: "#009E73"
+    ATAC_Listeria_24h: "#009E73"
+    ATAC_LPS_02h: "#56B4E9"
+    ATAC_LPS_04h: "#56B4E9"
+    ATAC_LPS_06h: "#56B4E9"
+    ATAC_LPS_08h: "#56B4E9"
+    ATAC_LPS_24h: "#56B4E9"

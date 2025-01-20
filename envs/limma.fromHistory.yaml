@@ -1,0 +1,24 @@
+name: limma
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - bioconductor-limma
+  - jupyter_client
+  - r-irkernel
+  - bioconductor-edger
+  - r-statmod
+  - bioconductor-enhancedvolcano
+  - r-svglite
+  - r-pheatmap
+  - r-gridextra
+  - r-enrichr
+  - r-ggally
+  - bioconductor-biomart
+  - bioconductor-cqn
+  - bioconductor-edaseq
+  - bioconductor-rtracklayer
+  - r-tidyverse
+  - r-sessioninfo
+  - r-gplots

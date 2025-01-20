@@ -1,0 +1,11 @@
+name: enhancedVolcano
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - bioconductor-enhancedvolcano=1.12.0
+  - jupyter_client
+  - r-irkernel
+  - r-svglite
+  - r-patchwork

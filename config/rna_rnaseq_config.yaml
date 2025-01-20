@@ -1,0 +1,52 @@
+# had to define snakemake cache with this command before execution
+# should be automated somewhere, eg as global tmp directory for the project
+# export SNAKEMAKE_OUTPUT_CACHE=/nobackup/lab_bock/projects/bmdm-stim/results/RNA/tmp/
+
+# command for slurm cluster executioun: snakemake -p --use-conda --rerun-incomplete  --profile config/slurm.cemm --cache 
+
+
+# path or URL to sample sheet (TSV format, columns: sample, condition, ...)
+samples: metadata/RNA_sample_metadata.tsv
+# path or URL to sequencing unit sheet (TSV format, columns: sample, unit, fq1, fq2)
+# Units are technical replicates (e.g. lanes, or resequencing of the same biological
+# sample).
+units: metadata/RNA_sample_annotation.tsv
+
+
+ref:
+  # Ensembl species name
+  species: mus_musculus
+  # Ensembl release (make sure to take one where snpeff data is available, check 'snpEff databases' output)
+  release: 102
+  # Genome build
+  build: GRCm38
+
+trimming:
+  activate: False
+
+# not used!
+pca:
+  activate: True
+  labels:
+    # columns of sample sheet to use for PCA
+    - condition
+
+
+# not used!
+diffexp:
+  # contrasts for the deseq2 results method
+  contrasts:
+    A-vs-B:
+      - A
+      - B
+  model: ~condition
+
+params:
+  cutadapt-pe: ""
+  cutadapt-se: ""
+  star: ""
+  
+# cluster parameters
+partition: 'shortq'
+memory: '32G'
+threads: 2

@@ -1,0 +1,38 @@
+name: plot_env
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - bioconductor-complexheatmap
+  - bioconductor-enhancedvolcano
+  - ipykernel
+  - jupyter_client
+  - matplotlib
+  - pandas
+  - pip
+  - plotly
+  - plotly_express
+  - python=3.8
+  - r-circlize
+  - r-dendsort
+  - r-directlabels
+  - r-dplyr
+  - r-egg
+  - r-eulerr
+  - r-extrafont
+  - r-ggally
+  - r-ggplot2
+  - r-ggplotify
+  - r-ggrepel
+  - r-gridgraphics
+  - r-hmisc
+  - r-igraph
+  - r-irkernel
+  - r-patchwork
+  - r-pheatmap
+  - r-reshape2
+  - r-sna
+  - r-svglite
+  - seaborn
+  - conda-forge::r-hexbin
