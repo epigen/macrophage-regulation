@@ -36,3 +36,4 @@ dependencies:
   - r-svglite
   - seaborn
   - conda-forge::r-hexbin
+  - conda-forge::r-ggrastr
