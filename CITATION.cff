@@ -1,0 +1,118 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Integrated time series analysis and high-content CRISPR
+  screening delineates the dynamics of macrophage immune
+  regulation
+message: >-
+  This repository contains the code and software
+  specifications used to create the results and figures
+  presented in the corresponding manuscript.
+type: software
+authors:
+  - given-names: Peter
+    family-names: Traxler
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+    orcid: 'https://orcid.org/0000-0003-0373-8839'
+  - given-names: Stephan
+    family-names: Reichl
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+    orcid: 'https://orcid.org/0000-0001-8555-7198'
+  - given-names: Lukas
+    family-names: Folkman
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+  - given-names: Lisa
+    family-names: Shaw
+    affiliation: >-
+      Medical University of Vienna, Department of Dermatology
+  - given-names: Victoria
+    family-names: Fife
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+  - given-names: Amelie
+    family-names: Nemc
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+  - given-names: Djurdja
+    family-names: Pasajlic
+    affiliation: >-
+      Medical University of Vienna, Department of Dermatology
+  - given-names: Anna
+    family-names: Kusienicka
+    affiliation: >-
+      Medical University of Vienna, Department of Dermatology
+  - given-names: Daniele
+    family-names: Barreca
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+  - given-names: Nikolaus
+    family-names: Fortelny
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+  - given-names: André F.
+    family-names: Rendeiro
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+  - given-names: Florian
+    family-names: Halbritter
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+  - given-names: Wolfgang
+    family-names: Weninger
+    affiliation: >-
+      Medical University of Vienna, Department of Dermatology
+  - given-names: Thomas
+    family-names: Decker
+    affiliation: >-
+      Max Perutz Labs, Vienna Biocenter Campus, Vienna, Austria
+  - given-names: Matthias
+    family-names: Farlik
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+    orcid: 'https://orcid.org/0000-0003-0698-2992'
+  - given-names: Christoph
+    family-names: Bock
+    affiliation: >-
+      CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences
+    orcid: 'https://orcid.org/0000-0001-6091-3088'
+repository-code: 'https://github.com/epigen/macrophage-regulation'
+url: 'http://macrophage-regulation.bocklab.org/'
+abstract: >-
+  Macrophages are innate immune cells with a central role in
+  host defense. To dissect the regulatory landscape that
+  enables swift and specific responses to pathogens, we
+  performed time-series analysis of gene expression and
+  chromatin accessibility in murine macrophages exposed to
+  various immune stimuli, and we functionally evaluated gene
+  knockouts at scale using single-cell CRISPR screening. We
+  identified new roles of transcription regulators such as
+  Spi1/PU.1 and JAK-STAT pathway members in immune cell
+  homeostasis and response to pathogens. We detected
+  modulation of macrophage activity by splicing proteins
+  SFPQ and SF3B1, histone acetyltransferase EP300, cohesion
+  subunit SMC1A, and mediator complex proteins MED8 and
+  MED14. We observed crosstalk among immune signaling
+  pathways and identified molecular drivers of
+  pathogen-induced dynamics. In summary, this study
+  establishes a time-resolved regulatory map of pathogen
+  response in macrophages, and it describes a broadly
+  applicable method for dissecting immune regulatory
+  programs through integrative time-series analysis and
+  high-content CRISPR screening.
+keywords:
+  - Multi-omics profiling
+  - time-series analysis
+  - macrophages
+  - single-cell CRISPR sequencing
+  - CROP-seq
+  - innate immunity
+  - pathogen infection
+  - systems immunology
+  - bioinformatics
+  - machine learning
+license: MIT
