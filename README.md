@@ -15,7 +15,7 @@ Traxler, Reichl et al., Integrated time-series analysis and high-content CRISPR 
 **Website:** [http://macrophage-regulation.bocklab.org/](http://macrophage-regulation.bocklab.org/)
 
 ## Instructions
-The `README`'s structure follows the generated and analyzed datasets and thereby the main figures of the manuscript. Each dataset consists of mutliple analyses, performed in order, and the used software, which are linked to the respective file within the repository.
+The `README`'s structure follows the generated and analyzed datasets and thereby the main figures of the manuscript. Each dataset consists of multiple analyses, performed in order, and the used software, which are linked to the respective file within the repository.
 - **Code** (`src/*`) is provided as interactive notebooks, including the last outputs, and helper scripts written in `R` or `Python`
   - Notebooks are structured using `Markdown`, start with a short description of the goal, input, output, followed by loading of libraries and helper functions, configurations and data loading steps, and subsequent code for the respective analyses
   - Input paths have to be adapted at the top of the notebooks as they  might differ after data download from GEO
