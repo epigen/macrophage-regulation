@@ -1,10 +1,15 @@
-# Integrated time series analysis and high-content CRISPR screening delineates the dynamics of macrophage immune regulation
 
-This repository contains the code and software specifications used to create the results and figures for the manuscript **[Integrated time series analysis and high-content CRISPR screening delineates the dynamics of macrophage immune regulation](https://doi.org/XXX) by Traxler, Reichl et al. (2025) *JOURNAL***
+[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.1016%2Fj.cels.2025.101346-blue)](https://doi.org/10.1016/j.cels.2025.101346)
+[![Zenodo DOI](https://zenodo.org/badge/919471800.svg)](https://doi.org/10.5281/zenodo.15262545)
+[![GitHub license](https://img.shields.io/github/license/epigen/macrophage-regulation)](https://github.com/epigen/macrophage-regulations/blob/main/LICENSE)
+
+# Integrated time-series analysis and high-content CRISPR screening delineate the dynamics of macrophage immune regulation
+
+This repository contains the code and software specifications used to create the results and figures for the manuscript **[Integrated time-series analysis and high-content CRISPR screening delineate the dynamics of macrophage immune regulation](https://doi.org/10.1016/j.cels.2025.101346) by [Traxler](https://orcid.org/0000-0003-0373-8839), [Reichl](https://orcid.org/0000-0001-8555-7198) et al.** published in *Cell Systems* (2025).
 
 **How to cite?** 
 ```
-Traxler, Reichl et al. (2025) *JOURNAL* XX, XX–XX, doi: https://doi.org/XXX
+Traxler, Reichl et al., Integrated time-series analysis and high-content CRISPR screening delineate the dynamics of macrophage immune regulation, Cell Systems (2025), https://doi.org/10.1016/j.cels.2025.101346
 ```
 
 **Website:** [http://macrophage-regulation.bocklab.org/](http://macrophage-regulation.bocklab.org/)
@@ -15,6 +20,8 @@ The `README`'s structure follows the generated and analyzed datasets and thereby
   - Notebooks are structured using `Markdown`, start with a short description of the goal, input, output, followed by loading of libraries and helper functions, configurations and data loading steps, and subsequent code for the respective analyses
   - Input paths have to be adapted at the top of the notebooks as they  might differ after data download from GEO
   - CROP-seq analyses often contain configs at the start to decide analysis parameters or whcih data to use e.g., if only mixscape (perturbed) cells or all cells should be used for the analysis
+  - A permanent record of the code can be found on Zenodo [10.5281/zenodo.15262545](https://doi.org/10.5281/zenodo.15262545)
+- **Data** is deposited at GEO as SuperSeries [GSE263763](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263763). Each dataset has it's own GEO SubSeries, linked in the respective section.
 - **Software** (`envs/*.yaml`) is documented as conda environment specification files, exported using [env_export.sh](./envs/env_export.sh), in three different flavors:
   - `fromHistory`, reflects the installtion history (linked environment file)
   - `noBuild`, includes the explicit version but not build information
@@ -25,7 +32,7 @@ The `README`'s structure follows the generated and analyzed datasets and thereby
 - Results with **stochastic** elements that might not be reproducible with a seed are provided in `results_stochastic/`
 
 ## Transcriptome RNA-seq time series (RNA)
-Related to Figures 1, 2, S1, S2, and Table S1.
+Related to Figures 1, 2, S1, S2, and Table S1. Raw & count data as GEO Series [GSE263759](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263759).
 - RNA-seq preprocessing with Snakemake workflow [rna-seq-star-deseq2 (v1.2.0)](https://github.com/snakemake-workflows/rna-seq-star-deseq2)
   - Resources are downloaded automatically by the workflow according to the provided [configuration file](config/rna_rnaseq_config.yaml)
 - Genome browser track visualizations with our Snakemake workflow [genome_tracks (v2.0.1)](https://github.com/epigen/genome_tracks)
@@ -37,7 +44,7 @@ Related to Figures 1, 2, S1, S2, and Table S1.
 - [Enrichment analysis](./src/RNA_05_enrichment_analysis.py.ipynb) using [enrichment_analysis.yaml](./envs/enrichment_analysis.fromHistory.yaml)
 
 ## Epigenome ATAC-seq time series (ATAC)
-Related to Figures 1, 2, S1, S2, and Table S2.
+Related to Figures 1, 2, S1, S2, and Table S2. Raw & count data as GEO Series [GSE263758](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263758).
 - ATAC-seq preprocessing and unsupervised analysis with our Snakemake workflow [atacseq_pipeline (v0.1.0)](https://github.com/epigen/atacseq_pipeline)
   - All required resources are provided on [Zenodo](https://zenodo.org/records/6344322)
 - Genome browser track visualizations with our Snakemake workflow [genome_tracks (v2.0.1)](https://github.com/epigen/genome_tracks)
@@ -61,7 +68,7 @@ Related to Figures 3, S3-5, and Table S3.
   - As database we used `mm10__refseq-r80__500bp_up_and_100bp_down_tss.mc9nr.feather` from [Aerts lab cistarget resources](https://resources.aertslab.org/cistarget/databases/mus_musculus/mm10/refseq_r80/mc9nr/gene_based/)
 
 ## Proof-of-concept CROP-seq KO15 screen (KO15)
-Related to Figures 4, S6-8, Table S4, and S6.
+Related to Figures 4, S6-8, Table S4, and S6. Raw & count data as GEO Series [GSE263760](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263760).
 - [Processing and unsupervised analysis of all cells](./src/KO15_01_processing_unsupervised_analysis_all.R.ipynb) using [Seurat.yaml](./envs/Seurat.fromHistory.yaml)
   - For cell cycle scoring [human-mouse homologs from Mouse Genome Informatics (MGI)](https://www.informatics.jax.org/downloads/reports/index.html#homology) were used
 - [Mixscape perturbation analysis of all cells simultaneously](./src/KO15_02_mixscape_all.R.ipynb) using [Seurat.yaml](./envs/Seurat.fromHistory.yaml)
@@ -72,7 +79,7 @@ Related to Figures 4, S6-8, Table S4, and S6.
 - [Enrichment analysis](./src/KO15_06_enrichment_analysis.py.ipynb) using [enrichment_analysis.yaml](./envs/enrichment_analysis.fromHistory.yaml)
 
 ## Upscaled CROP-seq KO150 screen (KO150)
-Related to Figures 5, 6, S9-12, Table S5, and S6.
+Related to Figures 5, 6, S9-12, Table S5, and S6. Raw & count data as GEO Series [GSE263761](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE263761).
 - [Processing and unsupervised analysis of all cells](./src/KO150_01_processing_unsupervised_analysis_all.R.ipynb) using [Seurat.yaml](./envs/Seurat.fromHistory.yaml)
   - For cell cycle scoring [human-mouse homologs from Mouse Genome Informatics (MGI)](https://www.informatics.jax.org/downloads/reports/index.html#homology) were used
 - [Mixscape perturbation analysis of all cells simultaneously](./src/KO150_02_mixscape_all.R.ipynb) using [Seurat.yaml](./envs/Seurat.fromHistory.yaml)
